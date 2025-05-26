@@ -1,0 +1,16 @@
+{
+  "name": "projeto-vainilla-web",
+  "version": "0.0.0",
+  "description": "My\tfirst\tGrunt\tproject.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\t\"Error:\tno\ttest\tspecified\"\t&&\texit\t1"
+  },
+  "author": "botechia-erika <24.01905-4@maua.br>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-jshint": "^3.2.0",
+    "load-grunt-tasks": "^5.1.0"
+  }
+}
